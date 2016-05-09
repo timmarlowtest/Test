@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCompleteTextBox", "AutoCompleteTextBox\AutoCompleteTextBox.csproj", "{F3869527-E46B-4EF3-9CFD-C595B4C39E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Debug|iPhone.Build.0 = Debug|iPhone
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Release|iPhone.ActiveCfg = Release|iPhone
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Release|iPhone.Build.0 = Release|iPhone
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{F3869527-E46B-4EF3-9CFD-C595B4C39E42}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal

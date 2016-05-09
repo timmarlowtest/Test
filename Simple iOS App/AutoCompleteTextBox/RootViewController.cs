@@ -1,0 +1,33 @@
+﻿
+using System;
+
+using UIKit;
+
+namespace AutoCompleteTextBox
+{
+    public partial class RootViewController : UIViewController
+    {
+        public RootViewController()
+            : base("RootViewController", null)
+        {
+        }
+
+        public override void ViewDidLoad()
+        {
+            base.ViewDidLoad();
+            // Perform any additional setup after loading the view, typically from a nib.
+            var label=new UILabel(){Text="new label"};
+            //label.Center = this.View.Frame.Location;
+       
+            View.AddSubview(label);
+        }
+
+        public override void DidReceiveMemoryWarning()
+        {
+            base.DidReceiveMemoryWarning();
+            // Release any cached data, images, etc that aren't in use.
+        }
+    }
+}
+
+
